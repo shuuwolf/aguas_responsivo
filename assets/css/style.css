@@ -27652,7 +27652,7 @@ body.avgrund-active {
 .sidebar .nav .nav-item .menu-avatar {
   font-size: 1.0rem;
   line-height: 1;
-  background-color: #42B98E;
+  background-color: #D65F5F;
   border-radius: 8px;
   padding: 14px 12px 14px 12px;
   display: flex;
@@ -28269,6 +28269,7 @@ body.avgrund-active {
   right: 4px;
   color: #F5F5F5;
   font-weight: light;
+  cursor:pointer;
 }
 
 .see-all-black {
@@ -28278,13 +28279,14 @@ body.avgrund-active {
   text-align: right;
   margin-top: 6px;
   margin-bottom: 0;
+  cursor:pointer;
 }
 
 .sidebar-button {
   position: absolute;
   right: -31px;
   border: none;
-  background-color: #42B98E;
+  background-color: #D65F5F;
   padding: 5px;
 }
 
@@ -28318,8 +28320,15 @@ body.avgrund-active {
 }
 
  /*********** RECURSOS HUMANOS **********************/
- .bg-navbar-rh{
+
+ /* Aguas Intranet/Aguas #0197A9 */
+.color-aguas{
+  color: #0197A9;
+}
+
+.bg-navbar-rh{
   background: #003764;
+  border-bottom:4px solid #D65F5F;
 }
 
 .banner-top{
@@ -28331,7 +28340,8 @@ body.avgrund-active {
   height: 600px;
   box-shadow: inset 22px -176px 69px -96px rgba(21, 21, 21, 0.58);
   position: relative;
-
+  object-fit: fill;
+  object-position: right top;
 }
 
 .section-above-title{
@@ -28382,6 +28392,30 @@ body.avgrund-active {
 /* Testando navbar fixa, fica melhor pro usuario */
 .sidebar .nav{
   position: fixed;
+}
+
+@media screen and (max-width:1200px){
+  .banner-top{
+    height: 360px;  
+    object-fit: contain;
+    object-position: right top;
+    background-size: auto;
+    background-position: right;
+  }
+
+  .banner-top-button-group{
+    top: calc(360px - 60px);
+  }
+}
+
+@media screen and (max-width:500px){
+  .banner-top{  
+    background-position: initial;
+  }
+
+  .banner-top-button-group{
+    top: calc(360px - 60px);
+  }
 }
 
 
