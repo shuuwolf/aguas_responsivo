@@ -28323,7 +28323,7 @@ body.avgrund-active {
 }
 
 .banner-top{
-  background: url('/assets/images/general/bg-top-rh.svg');
+  background: url('../images/general/bg-top-rh.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
