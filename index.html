@@ -1,0 +1,507 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Aguas do Brasil</title>
+  <link rel="stylesheet" href="assets/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="assets/vendors/owl-carousel-2/owl.carousel.min.css">
+  <link rel="stylesheet" href="assets/vendors/owl-carousel-2/owl.theme.default.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="shortcut icon" href="assets/images/logo-mini.svg" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="sidebar-icon-only">
+  <div class="container-scroller">
+    <nav class="sidebar sidebar-offcanvas" id="sidebar">
+      <div class="sidebar-brand-wrapper d-flex align-items-center justify-content-center fixed-top">
+        <a class="sidebar-brand brand-logo pl-4" href="index.html"><img src="assets/images/logo.svg" alt="logo" /></a>
+        <a class="sidebar-brand brand-logo-mini pl-4" href="index.html"><img src="assets/images/logo-mini.svg"
+            alt="logo" /></a>
+      </div>
+      <ul class="nav mt-4">
+        <li class="nav-item profile pt-2 mb-5">
+          <div class="profile-desc pl-2 position-relative">
+            <div class="profile-pic">
+              <span class="menu-avatar ml-1 mr-2">
+                FB
+              </span>
+              <button class="navbar-toggler sidebar-button align-self-center ml-3 mr-3" type="button"
+                onclick="changeIcon()" data-toggle="minimize">
+                <img src="assets/images/icons/right-arrow.png" id="right-arrow">
+                <img src="assets/images/icons/left-arrow.png" id="left-arrow">
+              </button>
+              <div class="profile-name">
+                <div class="m-0 p-0 font-color-black font-weight-bold font-size-sm">Fátima Bernardes</div>
+                <p class="m-0 p-0 font-color-black font-size-xm font-weight-light">fátimabernardes@</p>
+                <p class="m-0 p-0 font-color-black font-size-xm font-weight-light">demo.com</p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item nav-category">
+          <span class="nav-link">
+            <span class="menu-title">
+              <div class="font-color-green font-size-sm">• Recursos Humanos</div>
+              <div class="font-color-black font-size-sm d-inline">Bem vinda, </div>
+              <div class="font-color-black font-size-sm font-weight-bold d-inline">Fátima</div>
+            </span>
+
+          </span>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="index.html">
+            <span class="menu-icon">
+              <img src="assets/images/icons/home.png"></img>
+            </span>
+            <span class="menu-title">Home</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/notification.png"></i>
+            </span>
+            <span class="menu-title">Notificações</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/news.png"></i>
+            </span>
+            <span class="menu-title">Notícias</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/publications.png"></i>
+            </span>
+            <span class="menu-title">Publicações</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/people.png"></i>
+            </span>
+            <span class="menu-title">Pessoas</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/company.png"></i>
+            </span>
+            <span class="menu-title">A Empresa</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-2">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/links.png"></i>
+            </span>
+            <span class="menu-title">Links Úteis</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mb-5">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/users.png"></i>
+            </span>
+            <span class="menu-title">Usuários</span>
+          </a>
+        </li>
+        <li class="nav-item menu-items mt-5">
+          <a class="nav-link" href="#">
+            <span class="menu-icon">
+              <img src="assets/images/icons/log-out.png"></i>
+            </span>
+            <span class="menu-title">Logout</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div class="container-fluid page-body-wrapper">
+      <nav class="navbar bg-navbar-rh p-0 fixed-top d-flex flex-row">
+        <div class="navbar-menu-wrapper flex-grow d-flex align-items-stretch">
+          <div class="navbar-nav w-100 align-items-center justify-content-center">
+            <a class="d-flex justify-content-center" href="index.html"><img class="main-logo" src="assets/images/main-logo.svg" alt="logo" /></a>
+          </div>
+          <a class="align-self-center search-button" href="#">
+            <img src="assets/images/icons/search.png" alt="search">
+          </a>
+          <button class="navbar-toggler navbar-button align-self-center ml-3 mr-3" type="button" data-toggle="minimize">
+            <img src="assets/images/icons/menu.png">
+          </button>
+        </div>
+      </nav>
+
+
+
+      <div class="main-panel">
+        <div class="content-wrapper">
+          
+          <div class="row section-above banner-top">
+            <div class="container">
+              <h2 class="section-above-title">Recursos humanos</h2>
+              <div style="max-width: 1200px;" class="owl-carousel owl-theme w-100 owl-loaded banner-top-button-group" id="owl-carousel-menu-main">
+                <div class="owl-stage-outer">
+                    <div class="owl-stage">
+                        <div class="owl-item"><a href="#noticia" type="button" class="btn btn-secondary">Notícias</a></div>
+                        <div class="owl-item"><a href="#organograma" type="button" class="btn btn-secondary">Organograma</a></div>
+                        <div class="owl-item"><a href="#politica_de_rh" type="button" class="btn btn-secondary">Políticas de RH</a></div>
+                        <div class="owl-item"><a href="#campanhas" type="button" class="btn btn-secondary">Campanhas</a></div>
+                        <div class="owl-item"><a href="#duvidas_frequentes" type="button" class="btn btn-secondary">Dúvidas Frequentes</a></div>
+                        <div class="owl-item"><a href="#beneficios_gab" type="button" class="btn btn-secondary">Benefícios GAB</a></div>
+                    </div><!-- /owl-stage -->
+                </div><!-- /owl-stage-outer -->
+              </div><!-- /owl-carousel -->
+            </div><!-- /container -->
+          </div><!-- /banner-top -->
+
+          <div class="owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel" id="owl-carousel-main">
+            <div data-hash="noticia" class="item">
+              <div class="container-xl">
+
+                <nav aria-label="breadcrumb" class="ml-4 mt-5">
+                  <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Recursos Humanos</li>
+                  </ol>
+                </nav>
+
+                <div class="row">
+                  <div class="col-lg-9">
+                    <h1 class="font-weight-bold slider-title color-compliance mt-4">
+                      O GRUPO ÁGUAS DO BRASIL
+                    </h1>
+                    <p class="text-dark mt-4 mb-0">O Grupo Águas do Brasil trabalha para levar mais saúde e qualidade de vida a milhões de clientes, oferecendo serviços de tratamento e abastecimento de água, coleta e tratamento de esgoto.</p>
+                    
+                    <h4 class="font-weight-bold color-compliance mt-2">SOMOS UMA DAS PRINCIPAIS EMPRESAS DO SETOR PRIVADO DE SANEAMENTO DO PAÍS.</h4>
+
+                    <div class="mt-5">
+                      <h4 class="font-weight-bold color-compliance mt-4">Nossa Missão</h4>
+                      <p class="text-dark mt-2 mb-0">Prestar serviços de abastecimento de água tratada e coleta e tratamento de esgoto, priorizando o atendimento aos nossos clientes, a valorização dos nossos profissionais e os interesses dos acionistas, com excelência operacional, crescendo de maneira sustentável e contribuindo para a qualidade de vida da população.</p>
+                    </div>
+
+                    <div class="mt-5">
+                      <h4 class="font-weight-bold color-compliance mt-2">Nossa Visão</h4>
+                      <p class="text-dark mt-2 mb-0">Ser reconhecido pela excelência na prestação de serviços de saneamento básico, através da qualidade e eficiência de todos os seus negócios, com rigorosa responsabilidade socioambiental, contribuindo para a saúde e o bem-estar da população.</p>
+                    </div>
+
+                    <div class="mt-5">
+                      <h4 class="font-weight-bold color-compliance mt-2">Valores</h4>
+                      <ul class="text-dark">
+                        <li>Ética</li>
+                        <li>Comprometimento</li>
+                        <li>Respeito</li>
+                        <li>Simplicidade</li>
+                        <li>Visão de longo prazo</li>
+                        <li>Eficiência</li>
+                        <li>Responsabilidade Socioambiental</li>
+                      </ul>
+                    </div>
+
+                  </div><!-- /col -->
+                  <div class="col-lg-3 offset-lg-0 col-md-7 offset-md-3 col-sm-12">
+                    <div class="mt-5">
+                      <img src="assets/images/general/best-place-to-work.svg" alt="">
+                      <p class="text-dark mt-3">Em 2021, o Grupo conquistou a Certificação Internacional GPTW (Great Place to Work), um selo que reconhece as organizações como um excelente local para se trabalhar.</p>
+                    </div>
+                  </div><!-- /col -->
+                </div><!-- /row -->
+
+                <div class="row">
+                  <div class="col-lg-7 col-md-12">
+                    <div class="h-100 item banner-foto-rh">
+                      <img class="h-100" src="assets/images/general/foto-guria.png" alt="banner">
+                      <div class="banner">
+                        <h1 class="banner-text">Lorem ipsum dolor sit amet.</h1>
+                        <div class="date-white mt-2">17.06.2021</div>
+                        <p class="see-all mb-0">visitar &gt;&gt;</p>
+                      </div>
+                    </div>
+                  </div><!-- /col -->
+
+                  <div class="col-lg-5 mt-lg-0 mt-3 col-md-12">
+                    <div class="bg-color-resources px-3 py-4 rounded-lg position-relative main-border-radius">
+                      <h3 class="mb-0 w-75 main-line-height font-weight-bold">Organograma do Setor</h3>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+
+                    <div class="bg-color-resources px-4 pt-2 rounded-lg position-relative mt-3 pb-4 main-border-radius">
+                      <h2 class="pt-4 font-weight-bold">Comunicados</h2>
+                      <h3 class="pt-3 font-weight-bold">Horários</h3>
+                      <div class="font-size-md font-weight-light pt-1">25 de Agosto 2021</div>
+                      <div class="font-size-md font-weight-light pt-5">Lorem ipsum dolor sit amet, consectetur
+                        adipiscing elit. Vivamus eget odio id purus euismod suscipit. Fusce lobortis facilisis sem et
+                        tristique. Vivamus quis euismod risus. Morbi dui purus, ultricies id tortor nec, viverra
+                        tempus tortor. Integer nulla purus, lobortis sed metus eu, aliquet consectetur orci...</div>
+                      <p class="see-all mr-2">ver todos &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col -->
+                </div><!-- /row -->
+
+                <div class="row">
+                  <div class="col-sm-12 col-md-12 col-lg-5 grid-margin px-1 stretch-card">
+                      <div class="card">
+                        <div class="card-body">
+                          <div class="mx-2 position-relative row my-0 p-0">
+                            <div class="col-9 col-xl-9">
+                            <h3 class="font-color-black mb-xl-2 mt-0 pt-0 font-weight-bold">Campanhas</h3>
+                            </div>
+                            <div class="col-3 col-xl-3">
+                              <p class="see-all-black mb-0 font-color-black p-0">ver todos &gt;&gt;</p>
+                            </div>
+                          </div>
+                          <div class="row p-0 border-bottom mb-0">
+                            <div class="col-md-6 grid-margin stretch-card mb-3 pl-0 pr-2">
+                              <div class="card">
+                                <div class="card-body campaign-shadow main-border-radius">
+                                  <img class="radius-top" src="assets/images/general/campanha-1.png" alt="banner">
+                                  <div class="font-color-black font-size-sm px-2 py-2">Lorem ipsum dolor sit amet,
+                                    consectetur adipiscing elit. Cras risus ex, placerat vel justo vitae.</div>
+                                  <div class="date-black mx-2 mb-2">17.06.2021</div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-md-6 grid-margin stretch-card mb-3 pr-0 pl-2">
+                              <div class="card">
+                                <div class="card-body campaign-shadow main-border-radius">
+                                  <img class="radius-top" src="assets/images/general/campanha-2.png" alt="banner">
+                                  <div class="font-color-black font-size-sm px-2 py-2">Lorem ipsum dolor sit amet,
+                                    consectetur adipiscing elit. Cras risus ex, placerat vel justo vitae.</div>
+                                  <div class="date-black mx-2 mb-2 mt-0">17.06.2021</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <h3 class="font-color-black mt-2 mt-md-4 mb-sm-4 ml-md-3 ml-sm-3 font-weight-bold">Sistemas e Aplicativos</h3>
+
+                          <div class="row p-0">
+                              <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                                <div class="preview-thumbnail">
+                                  <img src="assets/images/general/App 1.png" alt="">
+                                </div><!-- /preview-thumbnail -->
+                              </div><!-- /col -->
+                     
+                              <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                                <div class="preview-thumbnail">
+                                  <img src="assets/images/general/App 2.png" alt="">
+                                </div><!-- /preview-thumbnail -->
+                              </div><!-- /col -->
+                     
+                              <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                                <div class="preview-thumbnail">
+                                  <img src="assets/images/general/App 3.png" alt="">
+                                </div><!-- /preview-thumbnail -->
+                              </div><!-- /col -->
+                          </div><!-- /row -->
+
+                        </div><!-- /card-body -->
+                      </div><!-- /card -->
+                  </div><!-- /col -->
+
+                  <div class="col-sm-12 col-md-12 col-lg-7 grid-margin stretch-card">
+                    <div class="card">
+                      <div class="card-body">
+                        <h3 class="card-title ml-3 mb-1 font-weight-bold text-black">Notícias</h3>
+                        <div class="preview-list">
+                          <div class="preview-item border-bottom row m-0 t-0">
+                            <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                              <div class="preview-thumbnail preview-thumbnail-news-rh">
+                                <img src="assets/images/general/notia-foto-1.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-12 col-sm-8 col-md-9">
+                              <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4">
+                                <h6 class="text-black preview-subject font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                                  ex, placerat vel justo vitae.</h6>
+                                  <small class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</small>
+                                <div class="date-black mt-2">17.06.2021</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="preview-item border-bottom row m-0 t-0">
+                            <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                              <div class="preview-thumbnail preview-thumbnail-news-rh main-border-radius">
+                                <img src="assets/images/general/notia-foto-2.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-12 col-sm-8 col-md-9">
+                              <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4">
+                                <h6 class="preview-subject text-black font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                                  ex, placerat vel justo vitae.</h6>
+                                  <small class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</small>
+                                <div class="date-black mt-2">17.06.2021</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="preview-item border-bottom row m-0 t-0">
+                            <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                              <div class="preview-thumbnail preview-thumbnail-news-rh">
+                                <img src="assets/images/general/notia-foto-3.png" alt="">
+                              </div>
+                            </div>
+                            <div class="col-12 col-sm-8 col-md-9">
+                              <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4">
+                                <h6 class="preview-subject text-black font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                                  ex, placerat vel justo vitae.</h6>
+                                  <small class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</small>
+                                <div class="date-black mt-2">17.06.2021</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- /row -->
+
+                <div class="mx-2 position-relative row my-0 p-0">
+                  <div class="col-9 col-xl-9">
+                    <h3 class="font-color-black ml-3 ml-sm-4 mt-0 pt-0 font-weight-bold">Links</h3>
+                  </div>
+                  <div class="col-3 col-xl-3">
+                    <p class="see-all-black mt-xl-3 mb-0 font-color-black p-0">ver todos &gt;&gt;</p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Organograma do Setor</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2 mt-md-0">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Auxílios e Benefícios</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2 mt-lg-0">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Duvidas Frequentes</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h5 class="mb-0 w-75 font-weight-bold">Treinamento e Desenvolvimento</h5>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Serviço e Solicitações</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Políticas de RH</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+
+                  <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+                    <div class="bg-color-resources p-4 rounded-lg position-relative main-border-radius">
+                      <h4 class="mb-0 w-75 font-weight-bold">Gestão de Desempenho</h4>
+                      <p class="see-all">visitar &gt;&gt;</p>
+                    </div>
+                  </div><!-- /col-md-4 -->
+                </div><!-- /row -->
+              </div><!-- /container -->
+            </div><!-- /item -->
+
+            <div data-hash="organograma" class="item">
+              <div class="container-xl">
+
+                <nav aria-label="breadcrumb" class="ml-4 mt-5">
+                  <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+                    <li class="breadcrumb-item"><a href="#">Recursos Humanos</a></li>
+                    <li class="breadcrumb-item"><a href="#">Carreiras</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Oportunidades internas</li>
+                  </ol>
+                </nav>
+
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="font-weight-bold slider-title color-resources mt-4">
+                      Oportunidades Internas
+                    </h1>
+                    <p class="text-black mt-4">O Grupo Águas do Brasil preza pela oportunidade de desenvolvimento de seus colaboradores e terceiros. Por isso, promove oportunidades de crescimento interno e conquista de novos talentos.</p>
+                    <p class="text-black">Confira as vagas disponíveis no Grupo.</p>
+                  </div><!-- /col -->
+                </div><!-- /row -->
+              </div><!-- /container -->
+            </div><!-- /item -->
+          </div><!-- /owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel -->
+
+          <footer class="p-4">
+            <div class="container">
+              <h3 class="font-color-black ml-4 mt-2 font-weight-bold">Mapa da Área <span class="color-resources">Recursos Humanos</span></h3>
+              <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <li><a class="d-block text-black font-size-md" href="#">Organograma</a></li>
+                    <li><a class="d-block text-black font-size-md" href="#">Notícias</a></li>
+                    <li><a class="d-block text-black font-size-md" href="#">Comunicados</a></li>
+                </div><!-- col -->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                  <li><a class="d-block text-black font-size-md" href="#">Campanhas</a></li>
+                  <li><a class="d-block text-black font-size-md" href="#">Dúvidas Frequentes</a></li>
+                  <li><a class="d-block text-black font-size-md" href="#">Políticas</a></li>
+                </div><!-- col -->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                  <li><a class="d-block text-black font-size-md" href="#">Treinamento e Desenvolvimento</a></li>
+                  <li><a class="d-block text-black font-size-md" href="#">Auxílios e Benefícios</a></li>
+                  <li><a class="d-block text-black font-size-md" href="#">Serviços e Solicitações</a></li>
+                </div><!-- col -->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                  <li><a class="d-block text-black font-size-md" href="#">Carreiras</a></li>
+                  <div class="ml-4"> 
+                    <li><a class="d-block text-black font-size-md" href="#">Oportunidades Internas</a></li>
+                    <li><a class="d-block text-black font-size-md" href="#">Jovem Aprendiz</a></li>
+                    <li><a class="d-block text-black font-size-md" href="#">Programa de Estágio</a></li>
+                    <li><a class="d-block text-black font-size-md" href="#">Jornada Águas</a></li>
+                  </div>
+                </div><!-- col -->
+              </div><!-- /row -->
+            </div><!-- container -->
+          </footer>
+        </div><!-- /content-wrapper -->
+      </div><!-- /main -->
+    </div><!-- /container-fluid page-body-wrapper -->
+  </div><!-- /container-scroller -->
+  <script src="assets/vendors/js/vendor.bundle.base.js"></script>
+  <script src="assets/vendors/owl-carousel-2/owl.carousel.min.js"></script>
+  <script src="assets/js/hoverable-collapse.js"></script>
+  <script src="assets/js/misc.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+  <script>
+    document.getElementById("left-arrow").style.display = "none";
+    function changeIcon() {
+      if (document.getElementById("right-arrow").style.display === "none") {
+        document.getElementById("right-arrow").style.display = "block";
+        document.getElementById("left-arrow").style.display = "none";
+      } else {
+        document.getElementById("right-arrow").style.display = "none";
+        document.getElementById("left-arrow").style.display = "block";
+      }
+    }
+  </script>
+</body>
+</html>
