@@ -28363,12 +28363,16 @@ body.avgrund-active {
 }
 
 .banner-top-button-group a{
-  padding: 18px 0;
+  padding: 18px 1px;
   width: 100%;
-  border-radius: 2rem;
   background: #FFFFFF!important;
   border:0;
   z-index: 10; /* Melhora o touch/click para o usuario */
+}
+
+.banner-top-button-group a:hover{
+  background: black!important;
+  color: white;
 }
 
 .preview-thumbnail-news-rh{
@@ -28399,6 +28403,10 @@ body.avgrund-active {
 .opacity-effect-img:hover{
   opacity: 1;
   filter: blur(0);
+}
+
+.cursor_pointer{
+  cursor: pointer;
 }
 
 /* Testando navbar fixa, fica melhor pro usuario 
@@ -28434,6 +28442,5 @@ body.avgrund-active {
     top: calc(360px - 60px);
   }
 } */
-
 
 
