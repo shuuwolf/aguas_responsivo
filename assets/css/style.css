@@ -28338,7 +28338,6 @@ body.avgrund-active {
   background-position: center;
   width: 100%;
   height: 600px;
-  box-shadow: inset 22px -176px 69px -96px rgba(21, 21, 21, 0.58);
   position: relative;
   object-fit: fill;
   object-position: right top;
@@ -28375,10 +28374,11 @@ body.avgrund-active {
 .preview-thumbnail-news-rh{
   width: 100%;
   height: auto;
+  overflow: hidden;
 }
 
 .banner-foto-rh img{
-  object-fit: cover;
+  object-fit: contain;
 }
 
 #owl-carousel-main .owl-nav { /*Removendo os nav arrows do slide */
@@ -28389,10 +28389,26 @@ body.avgrund-active {
   display: none;
 }
 
+.opacity-effect-img{
+  filter: blur(0.5px);
+  opacity: 0.85;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.opacity-effect-img:hover{
+  opacity: 1;
+  filter: blur(0);
+}
+
 /* Testando navbar fixa, fica melhor pro usuario */
 .sidebar .nav{
   position: fixed;
 }
+
+
+
+
 
 @media screen and (max-width:1200px){
   .banner-top{
