@@ -1,0 +1,955 @@
+<div class="owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel" id="owl-carousel-main">
+  <div data-hash="recursos_humanos" class="item">
+    <div class="container-xl px-0">
+
+      <nav aria-label="breadcrumb" class="ml-4 mt-5">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="index.html">Recursos Humanos</a></li>
+        </ol>
+      </nav>
+
+      <div class="row px-0 px-sm-2">
+        <div class="col-lg-9">
+          <h1 class="font-weight-bold slider-title color-aguas mt-4 w-100">
+            O GRUPO ÁGUAS DO BRASIL
+          </h1>
+          <p class="text-dark mt-4 mb-0">O Grupo Águas do Brasil trabalha para levar mais saúde e qualidade de vida a milhões de clientes, oferecendo serviços de tratamento e abastecimento de água, coleta e tratamento de esgoto.</p>
+          
+          <h4 class="font-weight-bold color-aguas mt-2">SOMOS UMA DAS PRINCIPAIS EMPRESAS DO SETOR PRIVADO DE SANEAMENTO DO PAÍS.</h4>
+
+          <div class="mt-5">
+            <h4 class="font-weight-bold color-aguas mt-4">Nossa Missão</h4>
+            <p class="text-dark mt-2 mb-0">Prestar serviços de abastecimento de água tratada e coleta e tratamento de esgoto, priorizando o atendimento aos nossos clientes, a valorização dos nossos profissionais e os interesses dos acionistas, com excelência operacional, crescendo de maneira sustentável e contribuindo para a qualidade de vida da população.</p>
+          </div>
+
+          <div class="mt-5">
+            <h4 class="font-weight-bold color-aguas mt-2">Nossa Visão</h4>
+            <p class="text-dark mt-2 mb-0">Ser reconhecido pela excelência na prestação de serviços de saneamento básico, através da qualidade e eficiência de todos os seus negócios, com rigorosa responsabilidade socioambiental, contribuindo para a saúde e o bem-estar da população.</p>
+          </div>
+
+          <div class="mt-5">
+            <h4 class="font-weight-bold color-aguas mt-2">Valores</h4>
+            <ul class="text-dark">
+              <li>Ética</li>
+              <li>Comprometimento</li>
+              <li>Respeito</li>
+              <li>Simplicidade</li>
+              <li>Visão de longo prazo</li>
+              <li>Eficiência</li>
+              <li>Responsabilidade Socioambiental</li>
+            </ul>
+          </div>
+
+        </div><!-- /col -->
+        <div class="col-lg-3 offset-lg-0 col-md-7 offset-md-3 col-sm-12">
+          <div class="mt-5">
+            <img src="assets/images/general/best-place-to-work.svg" alt="">
+            <p class="text-dark mt-3">Em 2021, o Grupo conquistou a Certificação Internacional GPTW (Great Place to Work), um selo que reconhece as organizações como um excelente local para se trabalhar.</p>
+          </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 px-sm-2">
+        <div class="col-lg-7 col-md-12">
+          <div class="h-100 item banner-foto-rh opacity-effect-img">
+            <a href="#">
+            <img class="h-100" src="assets/images/general/foto-guria.png" alt="banner">
+            <div class="banner">
+              <h1 class="banner-text font-weight-bold">Lorem ipsum dolor sit amet.</h1>
+              <div class="date-white mt-2">17.06.2021</div>
+              <p class="see-all mb-0">visitar &gt;&gt;</p>
+            </div>
+          </a>
+          </div>
+        </div><!-- /col -->
+
+        <div class="col-lg-5 mt-lg-0 mt-3 col-md-12">
+          <a href="#" class="text-white">
+            <div class="bg-color-resources px-3 py-4 rounded-lg position-relative main-border-radius">
+              <h3 class="mb-0 w-75 main-line-height font-weight-bold">Organograma do Setor</h3>
+              <p class="see-all">visitar &gt;&gt;</p>
+            </div>
+          </a><!-- /text-white -->
+
+          <a href="#" class="text-white">
+            <div class="bg-color-resources px-4 pt-2 rounded-lg position-relative mt-3 pb-4 main-border-radius">                      
+              <h3 class="pt-4 font-weight-bold">Comunicados</h3>
+              <h3 class="pt-3 font-weight-bold">Horários</h3>
+              <div class="font-size-md font-weight-light pt-1">25 de Agosto 2021</div>
+              <div class="font-size-md font-weight-light pt-3 pt-md-4">Lorem ipsum dolor sit amet, consectetur
+                adipiscing elit. Vivamus eget odio id purus euismod suscipit. Fusce lobortis facilisis sem et
+                tristique. Vivamus quis euismod risus. Morbi dui purus, ultricies id tortor nec, viverra
+                tempus tortor. Integer nulla purus, lobortis sed metus eu, aliquet consectetur orci...</div>
+              <p class="see-all mr-2 mb-1 mb-sm-2">ver todos &gt;&gt;</p>
+            </div>
+          </a>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 px-sm-2 mb-0">
+        <div class="col-sm-12 col-md-12 col-lg-5 grid-margin px-1 stretch-card">
+            <div class="card">
+              <div class="card-body">
+                <div class="position-relative row my-0 p-0">
+                  <div class="col-8 col-xl-6 px-0 px-sm-2">
+                  <h3 class="font-color-black mb-xl-2 mt-0 pt-0 font-weight-bold">Campanhas</h3>
+                  </div>
+                  <div class="col-4 col-xl-6 px-0 px-sm-2">
+                    <p class="see-all-black mb-0 font-color-black mr-0 mr-md-2 p-0">ver todos &gt;&gt;</p>
+                  </div>
+                </div>
+                <div class="row p-0 border-bottom mb-0">
+                  <div class="col-md-6 grid-margin stretch-card mt-4 pl-0 pr-0 pr-sm-1">
+                    <a href="#" class="card">
+                      <div class="card-body campaign-shadow main-border-radius opacity-effect-img">
+                        <img class="radius-top" src="assets/images/general/campanha-1.png" alt="banner">
+                        <div class="font-color-black font-size-sm px-2 py-2">Lorem ipsum dolor sit amet,
+                          consectetur adipiscing elit. Cras risus ex, placerat vel justo vitae.</div>
+                        <div class="date-black mx-2 mb-2">17.06.2021</div>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-md-6 grid-margin stretch-card mt-4 pr-0 pl-0 pl-sm-1">
+                    <a href="#" class="card">
+                      <div class="card-body campaign-shadow main-border-radius opacity-effect-img">
+                        <img class="radius-top" src="assets/images/general/campanha-2.png" alt="banner">
+                        <div class="font-color-black font-size-sm px-2 py-2">Lorem ipsum dolor sit amet,
+                          consectetur adipiscing elit. Cras risus ex, placerat vel justo vitae.</div>
+                        <div class="date-black mx-2 mb-2 mt-0">17.06.2021</div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <h3 class="font-color-black mt-2 mt-md-4 mb-sm-4 ml-3 font-weight-bold">Sistemas e Aplicativos</h3>
+
+                <div class="row p-0">
+                    <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                      <a href="#" class="preview-thumbnail">
+                        <img src="assets/images/general/App 1.png" alt="">
+                      </a><!-- /preview-thumbnail -->
+                    </div><!-- /col -->
+           
+                    <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                      <a href="#" class="preview-thumbnail">
+                        <img src="assets/images/general/App 2.png" alt="">
+                      </a><!-- /preview-thumbnail -->
+                    </div><!-- /col -->
+           
+                    <div class="mx-auto col-9 col-sm-4 col-md-3 col-lg-4 col-xl-4 mt-4">
+                      <a href="#" class="preview-thumbnail">
+                        <img src="assets/images/general/App 3.png" alt="">
+                      </a><!-- /preview-thumbnail -->
+                    </div><!-- /col -->
+                </div><!-- /row -->
+              </div><!-- /card-body -->
+            </div><!-- /card -->
+        </div><!-- /col -->
+
+        <div class="col-sm-12 col-md-12 col-lg-7 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <h3 class="card-title ml-3 mb-1 font-weight-bold text-black">Notícias</h3>
+              <div class="preview-list">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-1.png" alt="">
+                    </div>
+                  </div>
+                  <div class="col-12 col-sm-8 col-md-9">
+                    <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4 flex d-flex flex-column justify-content-between">
+                      <h6 class="text-black preview-subject font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                        ex, placerat vel justo vitae.</h6>
+                        <p class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</p>
+                      <div class="date-black mt-2">17.06.2021</div>
+                    </div>
+                  </div>
+                </a>
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh main-border-radius opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-2.png" alt="">
+                    </div>
+                  </div>
+                  <div class="col-12 col-sm-8 col-md-9">
+                    <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4 flex d-flex flex-column justify-content-between">
+                      <div>
+                        <h6 class="preview-subject text-black font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                          ex, placerat vel justo vitae.</h6>
+                          <p class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</p>
+                      </div>
+                      <div class="date-black mt-2">17.06.2021</div>
+                    </div>
+                  </div>
+                </a>
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto col-9 col-sm-4 col-md-3 p-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-3.png" alt="">
+                    </div>
+                  </div>
+                  <div class="col-12 col-sm-8 col-md-9">
+                    <div class="preview-item-content pt-2 pt-sm-0 pl-sm-4 pl-lg-1 pl-xl-4 flex d-flex flex-column justify-content-between">
+                      <h6 class="preview-subject text-black font-weight-bold">
+                       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras risus
+                        ex, placerat vel justo vitae.</h6>
+                        <p class="font-size-sm text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nulla vitae lacinia pulvinar. Integer in efficitur dui. Donec elementum, lorem pellentesque sollicitudin eleifend, tellus nisi aliquam ipsum, a lacinia magna lorem non diam.</p>
+                      <div class="date-black mt-2">17.06.2021</div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /row -->
+
+      <div class="mx-2 position-relative row my-0 p-0">
+        <div class="col-7 col-xl-9 px-0 px-sm-2">
+          <h3 class="font-color-black ml-3 ml-sm-4 mt-0 pt-0 font-weight-bold">Links</h3>
+        </div>
+        <div class="col-5 col-xl-3 px-0 px-sm-2">
+          <p class="see-all-black mt-xl-3 mb-0 font-color-black p-0">ver todos &gt;&gt;</p>
+        </div>
+      </div>
+
+      <div class="row px-0 px-sm-2">
+        <div class="col-lg-4 col-md-6 col-sm-12 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Organograma do Setor</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 mt-md-0 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Auxílios e Benefícios</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 mt-lg-0 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Duvidas Frequentes</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-100 font-weight-bold">Treinamento e Desenvolvimento</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Serviço e Solicitações</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Políticas de RH</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-2 h-100">
+          <a href="#" class="d-block bg-color-resources p-4 rounded-lg position-relative main-border-radius text-white h-100">
+            <h4 class="mb-0 w-75 font-weight-bold">Gestão de Desempenho</h4>
+            <p class="see-all mb-1 mb-sm-2">visitar &gt;&gt;</p>
+          </a>
+        </div><!-- /col-md-4 -->
+      </div><!-- /row -->
+    </div><!-- /container -->
+  </div><!-- /item -->
+
+  <div data-hash="oportunidades_internas" class="item">
+    <div class="container-xl">
+
+      <nav aria-label="breadcrumb" class="ml-4 mt-5">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+          <li class="breadcrumb-item"><a href="#">Recursos Humanos</a></li>
+          <li class="breadcrumb-item"><a href="#">Carreiras</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="#">Oportunidades internas</a></li>
+        </ol>
+      </nav>
+
+      <div class="row px-0">
+        <div class="col-md-12">
+          <h1 class="font-weight-bold slider-title color-resources mt-4">
+            Oportunidades Internas
+          </h1>
+          <p class="mt-4 font-color-black">O Grupo Águas do Brasil preza pela oportusnidade de desenvolvimento de seus colaboradores e terceiros. Por isso, promove oportunidades de crescimento interno e conquista de novos talentos.</p>
+          <p class="font-color-black">Confira as vagas disponíveis no Grupo.</p>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <h3 class="ml-2 font-weight-bold main-line-height text-black">Lista de Oportunidades</h3>
+
+      <div class="row px-0 flex-column-reverse flex-md-row">     
+        <div class="col-md-8 d-flex justify-content-center justify-content-md-start flex-column align-items-center align-md-items-center flex-sm-row px-0">
+            <a href="#" class="btn-oportunidade btn-oportunidade-active mt-2 mt-md-0 d-block">
+              <p class="mb-0">Jovem Aprediz</p>
+            </a><!-- /btn-oportunidade -->
+
+            <a href="#" class="btn-oportunidade mt-2 mt-md-0">
+              <p class="mb-0">Programa de Estágio</p>
+            </a><!-- /btn-oportunidade -->
+
+            <a href="#" class="btn-oportunidade mt-2 mt-md-0">
+              <p class="mb-0">Jornada Águas</p>
+            </a><!-- /btn-oportunidade -->
+        </div><!-- /col -->
+        <div class="col-md-4 mt-2 mt-lg-0 px-0">
+          <form>
+            <div class="input-group search-button-oportunidades">
+              <input type="text" class="form-control bg-white" placeholder="Pesquisar">
+              <div class="input-group-btn">
+                <button class="btn btn-default" type="submit">
+                  <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                    <path fill="#7C7C7A" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div><!-- /row -->
+
+      <div class="row px-0 py-2">
+        <div class="col-md-12">
+          <p class="font-color-black">A área de Recursos Humanos promove uma vez ao ano o processo seletivo para o Programa Jovem Aprendiz, a fim de atrair candidatos para o banco de talentos. Esse programa é voltado para a preparação e inserção de jovens no mercado de trabalho. O período de duração do programa é de até 2 anos e ocorre em parceria com a instituição formadora (Ciee, Senai ou Rede Cidadã), combinando formação teórica e prática para posições administrativas.</p>  
+          <p class="font-color-black">Os colaboradores têm a possibilidade de indicar jovens, dentre seus familiares e amigos. Se você conhece alguém com o perfil desejado, compartilhe as oportunidades.</p>    
+          <p class="font-color-black">✓ Campanha anual, geralmente lançada no mês de março, para atrair candidatos para o banco.</p>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 list-oportunity-item">
+        <div class="col-1">
+          <img src="assets/images/Bullhorn.svg" alt="Bullhorn">
+        </div><!-- /col -->
+        <div class="col-11">
+          <div class="position-relative row my-0 p-0">
+            <div class="col-9 px-0">
+              <h3 class="mb-0 mt-0 pt-0 font-weight-bold">Lorem ipsum dolor sit amet.</h3>
+            </div>
+            <div class="col-3 px-2">
+              <p class="see-all-black mb-0 p-0"><div class="float-right text-right date-black">17.06.2021</div></p>
+            </div>
+          
+          </div>
+          <div class="color-aguas font-size-sm  mt-1">• Compliance</div>
+          <p class="mb-1 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices id ex eu porttitor. Nulla imperdiet mollis diam in rutrum. Nam eget ligula venenatis, scelerisque ex a, posuere massa. Donec id felis tincidunt, dictum est ac, porta justo. In aliquam vestibulum interdum. Sed nec lectus ullamcorper, pulvinar ligula non, euismod arcu. Cras ac ipsum ornare, vulputate velit nec, fermentum risus.</p>
+          <div class="d-flex justify-content-end">
+            <a href="#" class="button-saber-mais">
+              Saiba mais
+            </a><!-- /button-saber-mais -->
+        </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 list-oportunity-item">
+        <div class="col-1">
+          <img src="assets/images/Bullhorn.svg" alt="Bullhorn">
+        </div><!-- /col -->
+        <div class="col-11">
+          <div class="position-relative row my-0 p-0">
+            <div class="col-9 px-0">
+              <h3 class="mb-0 mt-0 pt-0 font-weight-bold">Lorem ipsum dolor sit amet.</h3>
+            </div>
+            <div class="col-3 px-2">
+              <p class="see-all-black mb-0 p-0"><div class="float-right text-right date-black">17.06.2021</div></p>
+            </div>
+          
+          </div>
+          <div class="color-aguas font-size-sm mt-1">• Compliance</div>
+          <p class="mb-1 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices id ex eu porttitor. Nulla imperdiet mollis diam in rutrum. Nam eget ligula venenatis, scelerisque ex a, posuere massa. Donec id felis tincidunt, dictum est ac, porta justo. In aliquam vestibulum interdum. Sed nec lectus ullamcorper, pulvinar ligula non, euismod arcu. Cras ac ipsum ornare, vulputate velit nec, fermentum risus.</p>
+          <div class="d-flex justify-content-end">
+            <a href="#" class="button-saber-mais">
+              Saiba mais
+            </a><!-- /button-saber-mais -->
+        </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 list-oportunity-item">
+        <div class="col-1">
+          <img src="assets/images/Bullhorn.svg" alt="Bullhorn">
+        </div><!-- /col -->
+        <div class="col-11">
+          <div class="position-relative row my-0 p-0">
+            <div class="col-9 px-0">
+              <h3 class="mb-0 mt-0 pt-0 font-weight-bold">Lorem ipsum dolor sit amet.</h3>
+            </div>
+            <div class="col-3 px-2">
+              <p class="see-all-black mb-0 p-0"><div class="float-right text-right date-black">17.06.2021</div></p>
+            </div>
+          
+          </div>
+          <div class="color-aguas font-size-sm  mt-1">• Compliance</div>
+          <p class="mb-1 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices id ex eu porttitor. Nulla imperdiet mollis diam in rutrum. Nam eget ligula venenatis, scelerisque ex a, posuere massa. Donec id felis tincidunt, dictum est ac, porta justo. In aliquam vestibulum interdum. Sed nec lectus ullamcorper, pulvinar ligula non, euismod arcu. Cras ac ipsum ornare, vulputate velit nec, fermentum risus.</p>
+          <div class="d-flex justify-content-end">
+            <a href="#" class="button-saber-mais">
+              Saiba mais
+            </a><!-- /button-saber-mais -->
+        </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 list-oportunity-item">
+        <div class="col-1">
+          <img src="assets/images/Bullhorn.svg" alt="Bullhorn">
+        </div><!-- /col -->
+        <div class="col-11">
+          <div class="position-relative row my-0 p-0">
+            <div class="col-9 px-0">
+              <h3 class="mb-0 mt-0 pt-0 font-weight-bold">Lorem ipsum dolor sit amet.</h3>
+            </div>
+            <div class="col-3 px-2">
+              <p class="see-all-black mb-0 p-0"><div class="float-right text-right date-black">17.06.2021</div></p>
+            </div>
+          
+          </div>
+          <div class="color-aguas font-size-sm  mt-1">• Compliance</div>
+          <p class="mb-1 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices id ex eu porttitor. Nulla imperdiet mollis diam in rutrum. Nam eget ligula venenatis, scelerisque ex a, posuere massa. Donec id felis tincidunt, dictum est ac, porta justo. In aliquam vestibulum interdum. Sed nec lectus ullamcorper, pulvinar ligula non, euismod arcu. Cras ac ipsum ornare, vulputate velit nec, fermentum risus.</p>
+          <div class="d-flex justify-content-end">
+            <a href="#" class="button-saber-mais">
+              Saiba mais
+            </a><!-- /button-saber-mais -->
+        </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0 list-oportunity-item">
+        <div class="col-sm-1 col-12">
+          <img src="assets/images/Bullhorn.svg" alt="Bullhorn">
+        </div><!-- /col -->
+        <div class="col-md-11 col-10">
+          <div class="position-relative row my-0 p-0">
+            <div class="col-9 px-0">
+              <h3 class="mb-0 mt-0 pt-0 font-weight-bold">Lorem ipsum dolor sit amet.</h3>
+            </div>
+            <div class="col-3 px-2">
+              <p class="see-all-black mb-0 p-0"><div class="float-right text-right date-black">17.06.2021</div></p>
+            </div>
+          
+          </div>
+          <div class="color-aguas font-size-sm  mt-1">• Compliance</div>
+          <p class="mb-1 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices id ex eu porttitor. Nulla imperdiet mollis diam in rutrum. Nam eget ligula venenatis, scelerisque ex a, posuere massa. Donec id felis tincidunt, dictum est ac, porta justo. In aliquam vestibulum interdum. Sed nec lectus ullamcorper, pulvinar ligula non, euismod arcu. Cras ac ipsum ornare, vulputate velit nec, fermentum risus.</p>
+          <div class="d-flex justify-content-end">
+            <a href="#" class="button-saber-mais">
+              Saiba mais
+            </a><!-- /button-saber-mais -->
+        </div>
+        </div><!-- /col -->
+      </div><!-- /row -->
+    </div><!-- /container -->
+  </div><!-- /item -->
+
+  <div data-hash="treinamento_desenvolvimento" class="item">
+    <div class="container-xl">
+
+      <nav aria-label="breadcrumb" class="ml-4 mt-5">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+          <li class="breadcrumb-item"><a href="#">Recursos Humanos</a></li>
+          <li class="breadcrumb-item"><a href="#">Carreiras</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="#">Oportunidades internas</a></li>
+        </ol>
+      </nav>
+
+      <div class="row px-0">
+        <div class="col-md-12">
+          <h1 class="font-weight-bold slider-title color-resources mt-4">
+            Treinamento e Desenvolvimento
+          </h1>
+          <p class="mt-4 font-color-black">UniÁguas é o modelo de educação corporativa que centraliza as iniciativas estratégicas de formação e desenvolvimento de pessoas, proporcionando um ambiente de aprendizagem direcionado para a cultura, valores e desempenho do Grupo Águas do Brasil. </p>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row px-0">
+        <div class="col-sm-12 col-md-6 col-lg-6 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="preview-list px-0">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto mx-sm-0 col-9 col-sm-4 col-md-5 pl-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-3.png" alt="">
+                    </div><!-- /preview-thumbnail -->
+                  </div><!-- /col -->
+                  <div class="col-12 col-sm-8 col-md-7 px-0 mt-2 mt-sm-0">
+                    <div class="mt-2 mt-sm-0 preview-item-content flex d-flex flex-column justify-content-between">
+                      <h5 class="text-black preview-subject font-weight-bold"><div class="text-black font-size-sm">• Trilha Institucional</div></h5>
+                      <p class="font-size-sm text-black mt-2">São os treinamentos com conteúdo institucional sobre a cultura e os valores do Grupo Águas do Brasil.</p>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Programa de Integração</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Programa Jeito Águas de Ser</div>
+                    </div><!-- /preview-item-content -->
+                  </div><!-- /col -->
+                </a><!-- /preview-item -->
+              </div><!-- /preview-list -->
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+
+        <div class="col-sm-12 col-md-6 col-lg-6 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="preview-list px-0">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto mx-sm-0 col-9 col-sm-4 col-md-5 pl-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-2.png" alt="">
+                    </div><!-- /preview-thumbnail -->
+                  </div><!-- /col -->
+                  <div class="col-12 col-sm-8 col-md-7 px-0 mt-2 mt-sm-0">
+                    <div class="mt-2 mt-sm-0 preview-item-content flex d-flex flex-column justify-content-between">
+                      <h5 class="text-black preview-subject font-weight-bold"><div class="text-black font-size-sm">• Trilha de Compliance</div></h5>
+                      <p class="font-size-sm text-black mt-2">São as trilhas que direcionam a conduta ética dos colaboradores, orientando sobre as normas, diretrizes e políticas do Programa de Compliance.</p>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Código de Conduta Ética</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Políticas de Compliance</div>
+                    </div><!-- /preview-item-content -->
+                  </div><!-- /col -->
+                </a><!-- /preview-item -->
+              </div><!-- /preview-list -->
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+
+        <div class="col-sm-12 col-md-6 col-lg-6 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="preview-list px-0">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto mx-sm-0 col-9 col-sm-4 col-md-5 pl-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-1.png" alt="">
+                    </div><!-- /preview-thumbnail -->
+                  </div><!-- /col -->
+                  <div class="col-12 col-sm-8 col-md-7 px-0 mt-2 mt-sm-0">
+                    <div class="mt-2 mt-sm-0 preview-item-content flex d-flex flex-column justify-content-between">
+                      <h5 class="text-black preview-subject font-weight-bold"><div class="text-black font-size-sm">• Trilhas de Desenvolvimento</div></h5>
+                      <p class="font-size-sm text-black mt-2">Engloba todos os treinamentos para o desenvolvimento das competências importantes para o negócio. Para cada função existe uma matriz de trilhas e o profissional é direcionado a participar dos cursos que contemplam o seu aprimoramento e desenvolvimento.</p>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Trilha Técnica</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Trilha Administrativa</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Trilha Comportamental</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Formação de Multiplicadores</div>
+                    </div><!-- /preview-item-content -->
+                  </div><!-- /col -->
+                </a><!-- /preview-item -->
+              </div><!-- /preview-list -->
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+
+        <div class="col-sm-12 col-md-6 col-lg-6 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="preview-list px-0">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto mx-sm-0 col-9 col-sm-4 col-md-5 pl-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-3.png" alt="">
+                    </div><!-- /preview-thumbnail -->
+                  </div><!-- /col -->
+                  <div class="col-12 col-sm-8 col-md-7 px-0 mt-2 mt-sm-0">
+                    <div class="preview-item-content flex d-flex flex-column justify-content-between">
+                      <h5 class="text-black preview-subject font-weight-bold"><div class="text-black font-size-sm">• Trilha de Desenvolvimento de Líderes</div></h5>
+                      <p class="font-size-sm text-black mt-2">Consiste nas ações e programas para formação e desenvolvimento das lideranças do Grupo Águas do Brasil. </p>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Programa de Desenvolvimento de Executivos</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Programa de Desenvolvimento Gerencial</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Programa de Gestão e Liderança</div>
+                      <div class="text-black font-weight-bold font-size-sm mt-2">• Escola de Líderes</div>
+                    </div><!-- /preview-item-content -->
+                  </div><!-- /col -->
+                </a><!-- /preview-item -->
+              </div><!-- /preview-list -->
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+
+        <div class="col-sm-12 col-md-6 col-lg-6 grid-margin stretch-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="preview-list px-0">
+                <a href="#" class="preview-item border-bottom row m-0 t-0">
+                  <div class="mx-auto mx-sm-0 col-9 col-sm-4 col-md-5 pl-0">
+                    <div class="preview-thumbnail preview-thumbnail-news-rh opacity-effect-img">
+                      <img src="assets/images/general/notia-foto-2.png" alt="">
+                    </div><!-- /preview-thumbnail -->
+                  </div><!-- /col -->
+                  <div class="col-12 col-sm-8 col-md-7 px-0 mt-2 mt-sm-0">
+                    <div class="preview-item-content flex d-flex flex-column justify-content-between">
+                      <h5 class="text-black preview-subject font-weight-bold"><div class="text-black font-size-sm">• Educação</div></h5>
+                      <p class="font-size-sm text-black mt-2">Iniciativas de atualização profissional com o objetivo de aprimorar o exercício de determinadas funções. Contempla a política de auxílio instrução para estimular a formação técnica, superior e especialização, além da participação em congressos, eventos e cursos externos.</p>
+                    </div><!-- /preview-item-content -->
+                  </div><!-- /col -->
+                </a><!-- /preview-item -->
+              </div><!-- /preview-list -->
+            </div><!-- /card-body -->
+          </div><!-- /card -->
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+    </div><!-- /container -->
+  </div><!-- /item -->
+
+  <div data-hash="gestao_desempenho" class="item">
+    <div class="container-xl">
+
+      <nav aria-label="breadcrumb" class="ml-4 mt-5">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+          <li class="breadcrumb-item"><a href="#">Recursos Humanos</a></li>
+          <li class="breadcrumb-item"><a href="#">Carreiras</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="#">Oportunidades internas</a></li>
+        </ol>
+      </nav>
+
+      <div class="row px-0">
+        <div class="col-md-12">
+          <h1 class="font-weight-bold slider-title color-resources mt-4">
+            Gestão de Desempenho
+          </h1>
+          <p class="mt-4 font-color-black">O objetivo do programa é avaliar e acompanhar o desempenho de cada profissional, buscando a aderência do seu perfil às competências corporativas, funcionais e individuais. </p>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div  class="row px-0">
+        <div class="col-md-6 px-0 px-md-2">
+          <div class="beneficios-box-items px-2 px-md-4 py-4">
+            <h4 class="text-black font-weight-bold">Benefícios do Programa Gestão de Desempenho:</h4>
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Facilita o diálogo entre líder e liderado.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Alinha expectativas e encentiva o desenvolvimento profissional e pessoal.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Oferece elementos para reflexão sobre a atuação e desempenho.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Dá oportunidade para que os colaboradores saibam o que os gestores esperam e pensam de seu desempenho.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Identifica potenciais candidatos a funções de maior responsabilidade.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <img src="assets/images/icons/check.png" alt="item checado">
+              <p class="text-black mb-0">Auxilia nas decisões da organização e de gestão de pessoas, proporcionando indicadores para a gestão.</p>
+            </div><!-- /beneficios-item -->
+
+            <h4 class="color-resources font-weight-bold mt-4">É um importante instrumento de gestão e alinhamento de carreira do Grupo Águas do Brasil.</h4>
+          </div><!-- /beneficios-box-items -->
+        </div><!-- /col -->
+
+        <div class="col-md-6 mt-3 mt-md-0 px-0 px-md-2">
+          <div class="beneficios-box-items px-2 px-md-4 py-4">
+            <h4 class="text-black font-weight-bold ml-0 ml-md-4">Programa de Participação Nos Resultados - PPR</h4>
+            <div class="beneficios-item d-flex align-items-center mt-5 ml-0 ml-md-4">
+              <p class="text-black mb-0">O PPR é um plano de remuneração variável que reconhece a dedicação dos colaboradores para alcançar os resultados planejados pelo Grupo Águas do Brasil. O programa remunera o esforço dos colaboradores de modo individual e coletivo.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <p class="text-black mb-0">A distribuição dos resultados é atríbuida no atingimento das metas, de acordo com os níveis: Grupo, Diretoria/Unidade, Área e Individual.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <p class="text-black mb-0">Os ganhos também variam de acordo com o alcance das metas, sendo aplicado um fator de ponderação para quem cumpriu o mínimo aceítavel (70%), a meta alvo ou, ainda, teve um desempenho superior.</p>
+            </div><!-- /beneficios-item -->
+
+            <div class="beneficios-item d-flex align-items-center mt-4 ml-0 ml-md-4">
+              <p class="text-black mb-0">O pagamento da PPR ocorre anualmente em parcela única e depende da obtenção de resultado positivo pela empresa no périodo do programa. O pagamento ocorre no mês de junho</p>
+            </div><!-- /beneficios-item -->
+          </div><!-- /beneficios-box-items -->
+        </div><!-- /col -->
+      </div><!-- /row -->
+    </div><!-- /container -->
+  </div><!-- /item -->
+
+  <div data-hash="auxilio_beneficios" class="item">
+    <div class="container-xl">
+
+      <nav aria-label="breadcrumb" class="ml-4 mt-5">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="#">Intranet Águas do Brasil</a></li>
+          <li class="breadcrumb-item"><a href="#">Recursos Humanos</a></li>
+          <li class="breadcrumb-item"><a href="#">Carreiras</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="#">Oportunidades internas</a></li>
+        </ol>
+      </nav>
+
+      <div class="row px-0">
+        <div class="col-md-12">
+          <h1 class="font-weight-bold slider-title color-resources mt-4">
+            Auxílios e Benefícios
+          </h1>
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+      <div class="row box-duvida-wrapper">
+        <div class="col-md-6">
+          <h2 class="font-weight-bold color-resources mt-4">
+            Viva Bem Águas
+          </h2>
+          <p class="text-black mt-3">Programa que reúne todas as ações de gestão de saúde e qualidade de vida do Grupo Águas do Brasil, buscando diagnosticar, orientar e estimular a saúde dos colaboradores, proporcionando o bem estar de todos.</p>
+          <div class="box-duvida mt-3">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">• Dr. AON 24h:</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText">
+              <div class="card card-body p-3 p-2">
+                <p class="mt-2">acompanhamento de saúde para você e seus dependentes, gratuito e por telefone, sem limites de utilização. O Dr. Aon funciona como serviço de teleatendimento e telemedicina 24 horas por dia, 7 dias por semana, todos os dias do ano pelo 0800 940 1266 e pelo Teladoc App. O serviço contempla: médico e enfermeiros para dúvidas clínicas; segunda opinião médica; coaching nutricional e esportivo; monitoramento de gestantes; agendamento e consulta médica via telemedicina.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida mt-4">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">• Programa de Gestantes:</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText2" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText2"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText2">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2">O Programa de Gestantes Grupo Águas do Brasil visa ao acompanhamento e suporte necessário durante toda a gestação, esclarecendo dúvidas e orientando sobre as questões relativas à saúde da mamãe e do bebê. É destinado a todas as titulares e dependentes do plano de saúde da empresa. Para participar do programa, as funcionárias ou funcionários com cônjuges grávidas (casados ou com união estável), devem procurar o RH e preencher o formulário de adesão no início da gestação, assim que tiverem a gravidez confirmada ou antes de completarem 34 semanas de gestação. Horário de atendimento: segunda à sexta-feira, das 9h às 20h, pelo Dr. Aon - 0800 940 1266.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida mt-4 mb-4">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">• Gympass:</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText3" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText3"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText3">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque fuga id, corporis modi dignissimos non corrupti repellendus laudantium earum, at nam reprehenderit recusandae sequi error, ducimus illum ipsum odio blanditiis?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+        </div><!-- /col -->
+        <div class="col-md-6 d-flex flex-column justify-content-center">
+          <img src="assets/images/vivabemaguas-2 1.png" alt="viva bem aguas">
+          <img src="assets/images/vivabemaguas-1 1.png" alt="viva bem aguas">
+        </div><!-- /col -->
+      </div><!-- /row -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Asistência Médica</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText4" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText4"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText4">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2">Programa que reúne todas as ações de gestão de saúde e qualidade de vida do Grupo Águas do Brasil, buscando diagnosticar, orientar e estimular a saúde dos colaboradores, proporcionando o bem estar de todos.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Asistência Odontológica</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText5" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText5"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText5">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">A Assistência Odontológica é um benefício opcional, custeado 100% pelo colaborador, em forma de adesão, descontado em folha de pagamento de acordo com a modalidade escolhida.</p>
+                  <p class="mt-2 mb-0">O benefício é extensivo ao cônjuge e filhos (até 24 anos), sendo que o colaborador pagará o valor por cada dependente.</p>
+                  <p class="mt-2 mb-0">Bradesco Dental para todas as concessionárias.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Benefício Medicamento | Funcional Health</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText6" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText6"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText6">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">O benefício medicamento Funcional Health é oferecido a todos os colaboradores titulares do plano de saúde e seus dependentes.</p>
+                  <p class="mt-2 mb-0">Por meio de um cartão conveniado à rede de farmácias, é disponibilizado um limite mensal de 10% do valor do salário-base na compra de medicamentos para o grupo familiar (titual e dependentes). Ou seja, as compras podem ser feitas no seu cartão ou no seu dependete, totalizando a margem de 10% do seu salário.</p>
+                  <p class="mt-2 mb-0">As compras são descontadas em folha de pagamento, sem anuidade ou taxas adicionais.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Alimentação e Refeição</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText7" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText7"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText7">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">O auxílio alimentação é concedido a todos os colaboradores da empresa, através do cartão Sodexo. No ato da admissão, o colaborador poderá optar pela modalidade Refeição (utilizada em restaurantes), ou Alimentação (para uso em supermercados).</p>
+                  <p class="mt-2 mb-0">O benefício é concedido através de crédito mensal no primeiro dia útil do mês. O valor do benefício segue o acordo coletivo vigente na empresa e é disponibilizado para os dias de trabalho. O colaborador participará com um desconto de 1% a 10% sobre o valor total creditando no mês, de acordo com sua faixa salarial, obecendo os critérios do acordo coletivo.</p>
+                  <p class="mt-2 mb-0">A alteração da modalidade do benefício (refeição/alimentação) deverá ser solicitada via sistema Orquesta, anualmente, na data-base da categoria. O crédito mensal poderá ser dividido meio a meio nos cartões Refeição e Alimentação.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Café da Manhã</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText8" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText8"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText8">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">O Café da Manhã é um benefício concedido a todos os colaboradores da empresa para que efetuem suas refeições matinais.</p>
+                <p class="mt-2 mb-0"> Todos os colaboradores recebem o benefício através de crédito no cartão refeição/alimentação, cujo valor é estipulado em acordo coletivo.</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Cesta Básica</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText9" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText9"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText9">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Vale-Transporte</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText10" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText10"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText10">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Gestão do saldo 
+                de vale-transporte</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText11" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText11"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText11">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Seguro de Vida e Assistência Funeral Familiar</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText12" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText12"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText12">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Previdência Privada</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText13" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText13"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText13">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Auxílio Creche</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText14" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText14"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText14">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Empréstimo Consignado</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText15" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText15"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText15">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Auxílio Material Escolar</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText16" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText16"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText16">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Licença Maternidade – 6 Meses</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText17" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText17"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText17">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Auxílio Filho Excepcional</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText18" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText18"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText18">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+
+          <div class="box-duvida w-50 float-left box-duvida-wrapper p-4 my-1">
+            <div class="box-duvida-title d-flex justify-content-between">
+              <div class="color-resources font-weight-bold">Sodexo – Apoio Pass</div>
+              <a data-toggle="collapse" href="#multiCollapseDuvidaText19" role="button" aria-expanded="false" aria-controls="multiCollapseDuvidaText19"><img class="icon_collapse_item" src="assets/images/icons/left-arrow-duvida.svg" alt=""></a>
+            </div><!-- /box-duvida-title -->
+            <div class="collapse multi-collapse" id="multiCollapseDuvidaText19">
+              <div class="card card-body p-3 mt-2">
+                <p class="mt-2 mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam maxime placeat incidunt tempore quae eum alias odit saepe officia iure quidem repellat consequuntur, commodi esse doloremque. Est aliquam officiis ducimus?</p>
+              </div><!-- /card card-body -->
+            </div><!-- /collapse multi-collapse -->
+          </div><!-- /box-duvida -->
+    </div><!-- /container -->
+  </div><!-- /item -->
+</div><!-- /owl-carousel owl-theme full-width owl-carousel-dash portfolio-carousel -->
