@@ -28527,21 +28527,35 @@ body.recursos_humanos{
   height: 20px;
 }
 
-.box-duvida-wrapper{
+.box-duvida{
   background: #FFFFFF;
   border: 1px solid #EFEFEF;
   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
   border-radius: 8px;
-  float: right;
+  width: 100%;
 }
 
 .box-duvida p{
   color: #7C7C7A;
 }
 
-.box-duvida .card-body{
+.multi-collapse{
   border-left: 0.5px solid #C0BFBD;
+}
+
+.box-border-bottom{
   border-bottom: 0.5px solid #C0BFBD;
+}
+
+.box-duvida-wrapper{
+  background: #FFFFFF;
+  border: 1px solid #EFEFEF;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.light_subtext{
+  color: #7C7C7A;
 }
 
 /* .sidebar .nav{
